@@ -1,1 +1,1 @@
-A website on AMG cars
+A HTML and CSS practice website on AMG cars
